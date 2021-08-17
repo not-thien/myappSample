@@ -1,4 +1,4 @@
-# Be sure this is what you want
+# Git Kraken is forever
 After all, it's in markdown :)
 
 ## when you first get into the zone, ur like sheesh!
